@@ -1,0 +1,14 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.runtimeconfig.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\bin\Debug\net8.0\SistemaDeHospedagem.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\refint\SistemaDeHospedagem.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\SistemaDeHospedagem.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SistemaDeHospedagem\obj\Debug\net8.0\ref\SistemaDeHospedagem.dll
